@@ -8,6 +8,7 @@ public class SpringRestJpaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringRestJpaApplication.class, args);
+		System.out.println("update jenkins");
 	}
 
 }
